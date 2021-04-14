@@ -40,7 +40,7 @@ if __name__ == '__main__':
   / ___//  |/  / ___/ | SMS Spammer
   \__ \/ /|_/ /\__ \  | SMS Spammer using api from IndiHome
  ___/ / /  / /___/ /  | Coded by Xractz - \033[31;2mIndo\033[39;2mSec\033[0;1m
-/____/_/  /_//____/   | ex: 08xxxxx77\033[0m
+/____/_/  /_//____/   | ex: 0874402503\033[0m
 	""")
 
 		no = input("No    : ")
